@@ -24,10 +24,6 @@ export const theo = {
 } as const;
 ```
 
-- 🧑‍💻 Currently building **AI-enhanced developer experiences**  
-- ✈️ Working remote while road-tripping the U.S.  
-- 🥋 Leveling up soft skills as hard as code skills—ask me about social hacking
-
 ---
 
 ## 🛠 Tech Toolbox
