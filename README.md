@@ -6,11 +6,6 @@
     alt="Typing SVG"
   />
 </p>
-
-<p align="center">
-  <em>Turning ☕ into <span style="color:#f7df1e">JS</span> &amp; <span style="color:#764abc">Py</span> bytecode since 2020.</em>
-</p>
-
 ---
 
 ## 🚀 About Me
