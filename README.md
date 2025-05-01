@@ -46,32 +46,6 @@ export const theo = {
 
 ---
 
-## 📈 GitHub Stats &amp; Trophies
-
-<p align="center">
-  <!-- GitHub Readme Stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=teddy-bersentes&show_icons=true&theme=radical&hide=stars"
-    alt="Theo's GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=teddy-bersentes&theme=radical"
-    alt="Theo's GitHub streak"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <!-- GitHub Profile Trophy -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=teddy-bersentes&theme=gruvbox&no-bg=true&margin-w=15&margin-h=15"
-    alt="Theo's trophies"
-  />
-</p>
-
----
-
 ## 🧩 Featured Projects
 
 | Project | Stack | Why it’s cool |
@@ -82,16 +56,3 @@ export const theo = {
 | **game-porting-toolkit-helpers** | Bash · Swift · CMake | Mac Game Porting Toolkit wrappers that remove 80 % setup friction |
 
 > Check out [**my pinned repos »**](https://github.com/teddy-bersentes?tab=repositories&q=&type=&language=&sort=stargazers)
-
----
-
-<details>
-<summary>⚙️  Fun Facts / Easter Eggs (click to expand)</summary>
-
-- My **VS Code** config auto-folds comments so I’m allergic to TODOs staying yellow for too long.
-- I once wrote a Discord bot that **ordered burritos** 🌯 whenever my GitHub actions failed (net decrease in failure rate 😉).
-- Favorite HTTP header: `418 I'm a teapot`.
-
-</details>
-
-![snake gif](https://raw.githubusercontent.com/teddy-bersentes/teddy-bersentes/output/github-contribution-grid-snake.svg)
