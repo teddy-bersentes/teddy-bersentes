@@ -28,3 +28,70 @@ export const theo = {
   mantra: "Ship • Measure • Refactor",
 } as const;
 ```
+
+- 🧑‍💻 Currently building **AI-enhanced developer experiences**  
+- ✈️ Working remote while road-tripping the U.S.  
+- 🥋 Leveling up soft skills as hard as code skills—ask me about social hacking
+
+---
+
+## 🛠 Tech Toolbox
+
+<p align="center">
+  <!-- SkillIcons.dev -->
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,rust,go,aws,gcp,docker,kubernetes,postgres,mongodb,redis,githubactions,linux,vscode" />
+</p>
+
+> **Stack highlight:** React 18 ↔ Next.js 14 App Router ↔ tRPC ↔ Postgres (Prisma) on Fly .io
+
+---
+
+## 📈 GitHub Stats &amp; Trophies
+
+<p align="center">
+  <!-- GitHub Readme Stats -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=theobersentes&show_icons=true&theme=radical&hide=stars"
+    alt="Theo's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=theobersentes&theme=radical"
+    alt="Theo's GitHub streak"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <!-- GitHub Profile Trophy -->
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=theobersentes&theme=gruvbox&no-bg=true&margin-w=15&margin-h=15"
+    alt="Theo's trophies"
+  />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+| Project | Stack | Why it’s cool |
+|---------|-------|---------------|
+| **notion-sync** | Node 20 · GitHub Actions · TypeScript | One-click Notion ↔ Git two-way sync with granular reset levels |
+| **motion-ai** | Next.js 14 · OpenAI Whisper · Stripe Billing | 93 ms live video transcription pipeline + pay-as-you-go usage metering |
+| **audio-wizard** | Python 3.12 · FFmpeg · Rust ext | CLI that batch-cleans audiobook chapters & stitches losslessly in < 1 s |
+| **game-porting-toolkit-helpers** | Bash · Swift · CMake | Mac Game Porting Toolkit wrappers that remove 80 % setup friction |
+
+> Check out [**my pinned repos »**](https://github.com/theobersentes?tab=repositories&q=&type=&language=&sort=stargazers)
+
+---
+
+<details>
+<summary>⚙️  Fun Facts / Easter Eggs (click to expand)</summary>
+
+- My **VS Code** config auto-folds comments so I’m allergic to TODOs staying yellow for too long.
+- I once wrote a Discord bot that **ordered burritos** 🌯 whenever my GitHub actions failed (net decrease in failure rate 😉).
+- Favorite HTTP header: `418 I'm a teapot`.
+
+</details>
+
+![snake gif](https://raw.githubusercontent.com/theobersentes/theobersentes/output/github-contribution-grid-snake.svg)
