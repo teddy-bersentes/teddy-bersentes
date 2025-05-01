@@ -51,12 +51,12 @@ export const theo = {
 <p align="center">
   <!-- GitHub Readme Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=theobersentes&show_icons=true&theme=radical&hide=stars"
+    src="https://github-readme-stats.vercel.app/api?username=teddy-bersentes&show_icons=true&theme=radical&hide=stars"
     alt="Theo's GitHub stats"
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=theobersentes&theme=radical"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=teddy-bersentes&theme=radical"
     alt="Theo's GitHub streak"
     height="165"
   />
@@ -65,7 +65,7 @@ export const theo = {
 <p align="center">
   <!-- GitHub Profile Trophy -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=theobersentes&theme=gruvbox&no-bg=true&margin-w=15&margin-h=15"
+    src="https://github-profile-trophy.vercel.app/?username=teddy-bersentes&theme=gruvbox&no-bg=true&margin-w=15&margin-h=15"
     alt="Theo's trophies"
   />
 </p>
@@ -81,7 +81,7 @@ export const theo = {
 | **audio-wizard** | Python 3.12 · FFmpeg · Rust ext | CLI that batch-cleans audiobook chapters & stitches losslessly in < 1 s |
 | **game-porting-toolkit-helpers** | Bash · Swift · CMake | Mac Game Porting Toolkit wrappers that remove 80 % setup friction |
 
-> Check out [**my pinned repos »**](https://github.com/theobersentes?tab=repositories&q=&type=&language=&sort=stargazers)
+> Check out [**my pinned repos »**](https://github.com/teddy-bersentes?tab=repositories&q=&type=&language=&sort=stargazers)
 
 ---
 
@@ -94,4 +94,4 @@ export const theo = {
 
 </details>
 
-![snake gif](https://raw.githubusercontent.com/theobersentes/theobersentes/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/teddy-bersentes/teddy-bersentes/output/github-contribution-grid-snake.svg)
