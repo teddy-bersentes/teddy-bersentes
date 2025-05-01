@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-stack+Dev+%7C+AI-powered+Problem+Solver;Edge-to-Cloud+Tinkerer;Automation+Addict"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=AI-powered+Problem+Solver;Edge-to-Cloud+Tinkerer;Automation+Addict"
     alt="Typing SVG"
   />
 </p>
